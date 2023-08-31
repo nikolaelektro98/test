@@ -1,0 +1,9 @@
+CREATE TABLE [dbo].[Policajci] (
+    [BrojZnacke]    INT           NOT NULL,
+    [Ime]           NVARCHAR (20) NOT NULL,
+    [Prezime]       NVARCHAR (20) NULL,
+    [JMBG]          NVARCHAR (13) NULL,
+    [Pol]           NVARCHAR (10) NULL,
+    [DatumRodjenja] NVARCHAR (15) NULL,
+    PRIMARY KEY CLUSTERED ([BrojZnacke] ASC)
+);

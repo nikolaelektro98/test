@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[Kazne] (
+    [Id]       INT           IDENTITY (1, 1) NOT NULL,
+    [TipKazne] NVARCHAR (70) NOT NULL,
+    [Iznos]    INT           NOT NULL,
+    [Zatvor]   INT           NULL,
+    [Poeni]    INT           NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);

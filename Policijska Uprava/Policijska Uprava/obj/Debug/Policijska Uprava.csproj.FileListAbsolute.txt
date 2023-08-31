@@ -1,0 +1,80 @@
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.exe.config
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.exe
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.pdb
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.frmPolicijskaUprava.resources
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.Properties.Resources.resources
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.GenerateResource.cache
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.CoreCompileInputs.cache
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.exe
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.pdb
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.Registar.resources
+C:\Users\Fakultet\source\repos\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrcKazne.resources
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.exe.config
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.exe
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.pdb
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csprojAssemblyReference.cache
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.frmPolicijskaUprava.resources
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrcKazne.resources
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.Properties.Resources.resources
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.Registar.resources
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.GenerateResource.cache
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.CoreCompileInputs.cache
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.exe
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.pdb
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\bin\Debug\DataLayer.dll
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\bin\Debug\DataLayer.pdb
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.CopyComplete
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrPolicajac.resources
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\bin\Debug\BusinessLayer.dll
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\bin\Debug\BusinessLayer.pdb
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrDosije.resources
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.uscPocetna.resources
+C:\Users\Fakultet\Desktop\Projekti\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.OsnovniPodaci.resources
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.exe.config
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.exe
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.pdb
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\bin\Debug\BusinessLayer.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\bin\Debug\DataLayer.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\bin\Debug\BusinessLayer.pdb
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\bin\Debug\DataLayer.pdb
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrDosije.resources
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.frmPolicijskaUprava.resources
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrcKazne.resources
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.OsnovniPodaci.resources
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.Registar.resources
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.uscPocetna.resources
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrPolicajac.resources
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.exe
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.exe.config
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.exe
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\bin\Debug\Policijska Uprava.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\bin\Debug\BusinessLayer.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\bin\Debug\DataLayer.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\bin\Debug\BusinessLayer.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\bin\Debug\DataLayer.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrDosije.resources
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.frmPolicijskaUprava.resources
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrcKazne.resources
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.OsnovniPodaci.resources
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.Properties.Resources.resources
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.Registar.resources
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.uscPocetna.resources
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.usrPolicajac.resources
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.exe
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska Uprava.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.UserControl1.resources
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Policijska Uprava\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Nikola\Desktop\Policijska Uprava\Policijska Uprava\obj\Debug\Policijska_Uprava.UserControl1.resources

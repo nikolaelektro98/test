@@ -1,0 +1,46 @@
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.deps.json
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.runtimeconfig.json
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.runtimeconfig.dev.json
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Policijska Uprava.exe
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Policijska Uprava.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Policijska Uprava.exe.config
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.dll
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.pdb
+C:\Users\Nikola\Desktop\Fakultet\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.dll.config
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.dll.config
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.deps.json
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.runtimeconfig.json
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.runtimeconfig.dev.json
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Testiranje.pdb
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\BusinessLayer.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\DataLayer.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Policijska Uprava.exe
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\BusinessLayer.pdb
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\DataLayer.pdb
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Policijska Uprava.pdb
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\bin\Debug\netcoreapp2.1\Policijska Uprava.exe.config
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.csprojAssemblyReference.cache
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.AssemblyInfoInputs.cache
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.AssemblyInfo.cs
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.csproj.CopyComplete
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.dll
+C:\Users\Nikola\Desktop\Policijska Uprava\Testiranje\obj\Debug\netcoreapp2.1\Testiranje.pdb

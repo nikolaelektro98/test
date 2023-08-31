@@ -1,0 +1,10 @@
+CREATE TABLE [dbo].[Osobe] (
+    [Id]            INT           IDENTITY (1, 1) NOT NULL,
+    [Ime]           NVARCHAR (25) NOT NULL,
+    [Prezime]       NVARCHAR (25) NOT NULL,
+    [JMBG]          NVARCHAR (13) NOT NULL,
+    [Pol]           NVARCHAR (10) NOT NULL,
+    [DatumRodjenja] NVARCHAR (15) NOT NULL,
+    [Dozvola]       INT           NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);

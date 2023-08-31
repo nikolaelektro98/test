@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[Dosije] (
+    [Id]         INT           IDENTITY (1, 1) NOT NULL,
+    [IdOsobe]    INT           NOT NULL,
+    [IdKazne]    INT           NOT NULL,
+    [BrojZnacke] INT           NOT NULL,
+    [Datum]      NVARCHAR (15) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC, [IdOsobe] ASC, [IdKazne] ASC, [BrojZnacke] ASC, [Datum] ASC),
+    CONSTRAINT [FK_Dosije_Osobe] FOREIGN KEY ([IdOsobe]) REFERENCES [dbo].[Osobe] ([Id]),
+    CONSTRAINT [FK_Dosije_Kazne] FOREIGN KEY ([IdKazne]) REFERENCES [dbo].[Kazne] ([Id]),
+    CONSTRAINT [FK_Dosije_Policajci] FOREIGN KEY ([BrojZnacke]) REFERENCES [dbo].[Policajci] ([BrojZnacke])
+);
